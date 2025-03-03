@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Percobaan_capstone</string>
+
+    <string name="desc_welcom">Selamat Datang di Express Sign \n Yuuk Nikmati Fitur Pendeteksi Bahasa Isyarat dan Ekspresi Emosi Lewat Wajah</string>
+    <string name="unselect_image">Silahkan Pilih Gambar</string>
+</resources>
